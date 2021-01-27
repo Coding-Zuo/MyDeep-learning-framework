@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: deepflow-by-zuo
+Version: 0.0.1
+Summary: This is a mini but function complicated neural networks framework
+Home-page: https://github.com/Coding-Zuo/MyDeep-learning-framework
+Author: zuo
+Author-email: zzuuoo666@sina.com
+License: UNKNOWN
+Description: # ABOUT
+        
+        This is a mini deep learning framework create by zuo
+        ## Features
+        - Define Dynamic Compuing Graph
+        - Define Neural Network Operator
+        - Define Linear,Sigmoid,L2_loss
+        - Auto-Diff Computing
+        - Auto-FeedForward and Backward
+        
+        ## Remain
+        - Classification
+        - Cross-Entropy
+        - CNN,RNN
+        
+        ## Connection
+        email:zzuuoo666@sina.com
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
